@@ -53,7 +53,7 @@ npm -v
 ### 🔄 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/user-crud-app.git
+git clone https://github.com/TrevMaster300/user-crud-app.git
 cd user-crud-app
 ```
 
@@ -104,7 +104,7 @@ user-crud-app/
 
 ---
 
-## 🧪 Sample Screenshot
+## 📸 Screenshot
 
 _(Insert screenshot here when available)_
 
