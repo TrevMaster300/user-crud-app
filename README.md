@@ -106,7 +106,8 @@ user-crud-app/
 
 ## 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/a15f3544-2b26-45de-b524-439a240d1452)
+![image](https://github.com/user-attachments/assets/6994370f-daf1-4fbc-a26c-d4adcdf886a4)
+
 
 
 ---
