@@ -46,9 +46,13 @@ function UserList() {
       <ul>
         {users.map((user, index) => (
           <li key={index}>
-            {user.empNo} - {user.name} {user.surname} | {user.phone} | {user.address}
-            <button onClick={() => handleEdit(index)}>Edit</button>
-            <button onClick={() => handleDelete(index)}>Delete</button>
+            <div className="user-info">
+              {user.empNo} - {user.name} {user.surname} | {user.phone} | {user.address}
+            </div>
+            <div className="user-actions">
+              <button onClick={() => handleEdit(index)}>Edit</button>
+              <button onClick={() => handleDelete(index)}>Delete</button>
+            </div>
           </li>
         ))}
       </ul>
